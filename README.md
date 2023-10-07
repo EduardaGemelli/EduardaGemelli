@@ -2,7 +2,6 @@
 
 - 🎓 Cursando o 5º período de TSI pela UTFPR
 - 📚 Estudando Inglês 
-- 😀 Em busca de um estágio para iniciar uma carreira na área
 
 <div>
   <a href="https://github.com/EduardaGemelli">
