@@ -1,6 +1,6 @@
 ### Olá, me chamo Eduarda 👋
 
-- 🎓 Cursando o 5º período de TSI pela UTFPR
+- 🎓 Cursando o 6º período de TSI pela UTFPR
 - 📚 Estudando Inglês 
 
 <div>
