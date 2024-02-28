@@ -1,7 +1,7 @@
 ### Olá, me chamo Eduarda 👋
 
 - 🎓 Cursando o 6º período de TSI pela UTFPR
-- 📚 Estudando Inglês 
+- 👩🏼‍💻 Analista de Desenvolvimento de Sistemas 
 
 <div>
   <a href="https://github.com/EduardaGemelli">
