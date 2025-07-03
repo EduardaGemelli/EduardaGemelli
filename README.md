@@ -1,6 +1,6 @@
 ### Olá, me chamo Eduarda 👋
 
-- 🎓 Cursando o 6º período de TSI pela UTFPR
+- 🎓 Tecnóloga em Sistemas para Internet (TSI) pela UTFPR
 - 👩🏼‍💻 Analista de Desenvolvimento de Sistemas 
 
 <div>
